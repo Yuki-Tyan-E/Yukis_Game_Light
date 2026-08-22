@@ -1,0 +1,15 @@
+{
+  "name": "com.yukityan.yukisgamelight",
+  "displayName": "Yuki's Game Light",
+  "version": "1.0.0",
+  "description": "A lighting tool designed to brighten VRChat worlds.",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "Yuki_Tyan",
+    "email": "3083048336@qq.com"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "F:\\download\\edge\\Yukis_Game_Light-main\\Packages\\com.yukityan.yukisgamelight"
+}

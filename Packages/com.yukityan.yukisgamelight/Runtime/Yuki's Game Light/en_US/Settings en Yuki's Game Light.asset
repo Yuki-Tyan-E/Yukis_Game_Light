@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Settings en Yuki's Game Light
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: ef08ba1c738e69b499bc86f6e09a862f, type: 2}
+  controls:
+  - name: <b>Spot Angle</b>
+    icon: {fileID: 2800000, guid: 694aca22ffbd48b4ba93608bd02b7804, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Yuki/GameLight/SpotAngle
+    labels: []
+  - name: "<b>Light Range \u2192 99,999</b>"
+    icon: {fileID: 2800000, guid: 4445c32e5cbf6f549a7b4bfad71f1359, type: 3}
+    type: 102
+    parameter:
+      name: Yuki/GameLight/RangeSwitch
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <b>Light Temperature</b>
+    icon: {fileID: 2800000, guid: 0d2814e97a542d145b280eaedf36f6fd, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Yuki/GameLight/Temperature
+    labels: []
+  - name: <b>Fog Gamma</b>
+    icon: {fileID: 2800000, guid: c03bca0cfda30e347866255b8f52afc1, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Yuki/GameLight/Fog/Gamma
+    labels: []
+  - name: <b>Fog Saturation</b>
+    icon: {fileID: 2800000, guid: 0c93cee226b18864387343310b763ce3, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Yuki/GameLight/Fog/Saturation
+    labels: []

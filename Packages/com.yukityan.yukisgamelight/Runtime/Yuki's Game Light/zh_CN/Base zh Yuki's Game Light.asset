@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Base zh Yuki's Game Light
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: ef08ba1c738e69b499bc86f6e09a862f, type: 2}
+  controls:
+  - name: "<b>\u805A\u5149\u706F</b>"
+    icon: {fileID: 2800000, guid: d299b6a2bf736af4288395570ed575b6, type: 3}
+    type: 102
+    parameter:
+      name: Yuki/GameLight/SpotPower
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "<b>180\xB0 \u5B9A\u5411\u5149</b>"
+    icon: {fileID: 2800000, guid: e693ff5abdd006e4e9429438e0495781, type: 3}
+    type: 102
+    parameter:
+      name: Yuki/GameLight/Directionalx2
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "<b>360\xB0 \u5B9A\u5411\u5149 (\u5361\u987F)</b>"
+    icon: {fileID: 2800000, guid: 5c962c9a3d5aa2443be49972897cb28d, type: 3}
+    type: 102
+    parameter:
+      name: Yuki/GameLight/Directionalx4
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "<b>\u4EAE\u5EA6</b>"
+    icon: {fileID: 2800000, guid: c03bca0cfda30e347866255b8f52afc1, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Yuki/GameLight/Intensity
+    labels: []
+  - name: "<b>\u96FE\u900F\u63D0\u4EAE</b>"
+    icon: {fileID: 2800000, guid: 862254f02ed067446a5b7eb961b84f0b, type: 3}
+    type: 102
+    parameter:
+      name: Yuki/GameLight/Fog/Fog
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: "<b>\u964C\u751F\u4EBA\u4E0D\u53EF\u89C1</b>"
+    icon: {fileID: 2800000, guid: 5991206fe575e3a46be05e231de1f2c0, type: 3}
+    type: 102
+    parameter:
+      name: Yuki/GameLight/Local
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: "<b>\u4EC5\u597D\u53CB\u53EF\u89C1</b>"
+    icon: {fileID: 2800000, guid: 602e1c73cd3f0374baf8a3fc51113a44, type: 3}
+    type: 102
+    parameter:
+      name: Yuki/GameLight/Friends
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: "<b>\u8BBE\u7F6E</b>"
+    icon: {fileID: 2800000, guid: 0ad245a19bfd54c4da6530d42ceaca8e, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: bae40d2a36f0f0a469b524ac91f87b8e, type: 2}
+    subParameters:
+    - name: 
+    labels: []

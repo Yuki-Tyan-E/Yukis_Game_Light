@@ -1,0 +1,14 @@
+{
+  "name": "com.yukityan.yukisgamelight.Editor",
+  "references": [
+    "com.yukityan.yukisgamelight"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}
