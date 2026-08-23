@@ -55,7 +55,7 @@ MonoBehaviour:
     subParameters:
     - name: Yuki/GameLight/Intensity
     labels: []
-  - name: <b>Fog Boost</b>
+  - name: <b>Fog Reduction</b>
     icon: {fileID: 2800000, guid: 862254f02ed067446a5b7eb961b84f0b, type: 3}
     type: 102
     parameter:

@@ -191,7 +191,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   boneReference: 10
   subPath: 
-  attachmentMode: 1
+  attachmentMode: 3
   matchScale: 0
 --- !u!1 &1943899268684641714
 GameObject:
@@ -832,7 +832,7 @@ MonoBehaviour:
     isPrefix: 0
     syncType: 2
     localOnly: 1
-    defaultValue: 0
+    defaultValue: 0.1
     saved: 1
     hasExplicitDefaultValue: 1
     m_overrideAnimatorDefaults: 0
@@ -842,7 +842,7 @@ MonoBehaviour:
     isPrefix: 0
     syncType: 2
     localOnly: 1
-    defaultValue: 0
+    defaultValue: 0.1
     saved: 1
     hasExplicitDefaultValue: 1
     m_overrideAnimatorDefaults: 0
@@ -852,7 +852,7 @@ MonoBehaviour:
     isPrefix: 0
     syncType: 2
     localOnly: 1
-    defaultValue: 0
+    defaultValue: 0.1
     saved: 1
     hasExplicitDefaultValue: 1
     m_overrideAnimatorDefaults: 0
@@ -862,7 +862,7 @@ MonoBehaviour:
     isPrefix: 0
     syncType: 2
     localOnly: 1
-    defaultValue: 0
+    defaultValue: 0.1
     saved: 1
     hasExplicitDefaultValue: 1
     m_overrideAnimatorDefaults: 0
@@ -872,7 +872,7 @@ MonoBehaviour:
     isPrefix: 0
     syncType: 2
     localOnly: 1
-    defaultValue: 0
+    defaultValue: 0.1
     saved: 1
     hasExplicitDefaultValue: 1
     m_overrideAnimatorDefaults: 0
@@ -886,23 +886,13 @@ MonoBehaviour:
     saved: 0
     hasExplicitDefaultValue: 1
     m_overrideAnimatorDefaults: 0
-  - nameOrPrefix: Yuki/GameLight/Fog/Base
-    remapTo: 
-    internalParameter: 0
-    isPrefix: 0
-    syncType: 2
-    localOnly: 1
-    defaultValue: 0.3
-    saved: 1
-    hasExplicitDefaultValue: 1
-    m_overrideAnimatorDefaults: 0
   - nameOrPrefix: Yuki/GameLight/Fog/Gamma
     remapTo: 
     internalParameter: 0
     isPrefix: 0
     syncType: 2
     localOnly: 1
-    defaultValue: 0.5
+    defaultValue: 0.25
     saved: 1
     hasExplicitDefaultValue: 1
     m_overrideAnimatorDefaults: 0
@@ -912,7 +902,7 @@ MonoBehaviour:
     isPrefix: 0
     syncType: 2
     localOnly: 1
-    defaultValue: 0.5
+    defaultValue: 0.75
     saved: 1
     hasExplicitDefaultValue: 1
     m_overrideAnimatorDefaults: 0

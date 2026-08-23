@@ -46,7 +46,7 @@ MonoBehaviour:
     subParameters:
     - name: Yuki/GameLight/Temperature
     labels: []
-  - name: "<b>\u9727\u8EFD\u6E1B\u30AC\u30F3\u30DE</b>"
+  - name: "<b>\u9727\u8EFD\u6E1B \u30AC\u30F3\u30DE</b>"
     icon: {fileID: 2800000, guid: c03bca0cfda30e347866255b8f52afc1, type: 3}
     type: 203
     parameter:
@@ -57,7 +57,7 @@ MonoBehaviour:
     subParameters:
     - name: Yuki/GameLight/Fog/Gamma
     labels: []
-  - name: "<b>\u9727\u8EFD\u6E1B\u30AB\u30E9\u30FC\u5F69\u5EA6</b>"
+  - name: "<b>\u9727\u8EFD\u6E1B \u30AB\u30E9\u30FC\u5F69\u5EA6</b>"
     icon: {fileID: 2800000, guid: 0c93cee226b18864387343310b763ce3, type: 3}
     type: 203
     parameter:

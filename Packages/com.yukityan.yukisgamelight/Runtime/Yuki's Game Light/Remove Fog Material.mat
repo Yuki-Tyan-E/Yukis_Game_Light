@@ -27,7 +27,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _BaseOffset: 0.003
-    - _Gamma: 0.5
-    - _Saturation: 0.75
+    - _Gamma: 0.25
+    - _Saturation: 1.125
     m_Colors: []
   m_BuildTextureStacks: []

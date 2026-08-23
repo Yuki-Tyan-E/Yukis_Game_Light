@@ -2,12 +2,12 @@ Shader "Custom/AdvancedScreenBrighten"
 {
     Properties
     {
-        _Gamma ("Gamma Curve (伽马提亮)", Range(0.001, 1.0)) = 0.5
-        _Saturation ("Saturation (饱和度, 1为原色)", Range(0.0, 1.5)) = 0.75
+        _Gamma ("Gamma Curve (伽马提亮)", Range(0.001, 1.0)) = 0.25
+        _Saturation ("Saturation (饱和度, 1为原色)", Range(0.0, 1.5)) = 1.125
     }
     SubShader
     {
-        Tags { "Queue"="Overlay+500" "RenderType"="Overlay" "IgnoreProjector"="True" }
+        Tags { "Queue"="Overlay+10" "RenderType"="Overlay" "IgnoreProjector"="True" }
         LOD 100
 
         Cull Off 
