@@ -66,11 +66,9 @@ Each of the three lighting modes has its own independent brightness memory.
 
 When switching between lighting modes, the corresponding brightness setting is automatically restored, so you don't need to adjust it again every time.
 
-### Automatic Hide from Strangers
+### Brightness Separation
 
-When the light brightness exceeds 10%, Hide from Strangers is automatically enabled.
-
-The light will not be visible to strangers, helping reduce unnecessary visual interference for other players.
+Local, Friends Only, and Strangers use three different brightness values in the Blend Tree to avoid excessively affecting other players.
 
 ## Credits
 
