@@ -6,8 +6,8 @@
   "dependencies": {},
   "gitDependencies": {},
   "vpmDependencies": {
-    "com.vrchat.avatars": ">=3.10.4",
-    "nadena.dev.modular-avatar": ">=1.17.1"
+    "com.vrchat.avatars": "*",
+    "nadena.dev.modular-avatar": "*"
   },
   "author": {
     "name": "Yuki_Tyan",
