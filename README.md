@@ -5,8 +5,8 @@ Yuki's Game Light is a VRChat Avatar utility plugin focused on improving the bri
 It combines multiple lighting setups and shader-based image processing to make dark areas and foggy environments easier to see, while preserving the original colors as much as possible.
 
 <p align="left">
-  <a href="vcc://vpm/addRepo?url=https%3A%2F%2FYuki-Tyan-E.github.io%2FYukis_Game_Light%2Findex.json">
-    <img src="https://img.shields.io/badge/Add%20to-VCC-00AEEF?style=for-the-badge" alt="Add to VCC">
+   <a href="https://Yuki-Tyan-E.github.io/Yukis_Game_Light/">
+    <img src="https://img.shields.io/badge/VCC%20Listing-Add%20to%20VCC-blue?style=for-the-badge" alt="Add to VCC">
   </a>
 </p>
 
