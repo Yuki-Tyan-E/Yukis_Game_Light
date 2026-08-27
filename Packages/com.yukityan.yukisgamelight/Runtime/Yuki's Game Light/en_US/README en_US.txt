@@ -7,6 +7,9 @@ Credits:
         https://dontjinxit.gumroad.com/l/JinxedIcons
         dont_jinxit
 
+GitHub：
+	https://github.com/Yuki-Tyan-E/Yukis_Game_Light
+	
 		
 Description:
     Yuki's Game Light is a VRChat Avatar feature plugin focused on improving the brightness of game worlds.

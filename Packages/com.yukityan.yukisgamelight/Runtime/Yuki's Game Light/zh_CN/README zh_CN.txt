@@ -5,6 +5,9 @@
 	菜单图标来源2：
 		https://dontjinxit.gumroad.com/l/JinxedIcons
 		dont_jinxit
+		
+GitHub：
+	https://github.com/Yuki-Tyan-E/Yukis_Game_Light
 
 简介：
 	Yuki's Game Light 是一款专注于提升游戏地图画面亮度的 VRChat Avatar 功能插件。

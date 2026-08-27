@@ -5,6 +5,9 @@
     メニューアイコン提供元2：
         https://dontjinxit.gumroad.com/l/JinxedIcons
         dont_jinxit
+		
+GitHub：
+	https://github.com/Yuki-Tyan-E/Yukis_Game_Light
 
 概要：
     Yuki's Game Light は、ゲームワールドの画面を明るくすることに重点を置いた VRChat Avatar 用機能プラグインです。
